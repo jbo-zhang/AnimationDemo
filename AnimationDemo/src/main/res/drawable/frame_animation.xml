@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/img_bread" android:duration="200"/>
+    <item android:drawable="@drawable/img_bill" android:duration="200"/>
+    <item android:drawable="@drawable/img_barman" android:duration="200"/>
+    <item android:drawable="@drawable/img_beer" android:duration="200"/>
+    <item android:drawable="@drawable/img_bill_1" android:duration="200"/>
+    <item android:drawable="@drawable/img_champagne" android:duration="200"/>
+    <item android:drawable="@drawable/img_chef" android:duration="200"/>
+    <item android:drawable="@drawable/img_chili" android:duration="200"/>
+    <item android:drawable="@drawable/img_churros" android:duration="200"/>
+    <item android:drawable="@drawable/img_fried_chicken" android:duration="200"/>
+    <item android:drawable="@drawable/img_dishes" android:duration="200"/>
+    <item android:drawable="@drawable/img_dim_sum" android:duration="200"/>
+    <item android:drawable="@drawable/img_hot_dog" android:duration="200"/>
+    <item android:drawable="@drawable/img_ice_cream" android:duration="200"/>
+    <item android:drawable="@drawable/img_pot" android:duration="200"/>
+</animation-list>
